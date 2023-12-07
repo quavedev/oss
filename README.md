@@ -1,12 +1,14 @@
 # Quave OSS
 
-We track in this repository as issues the open source tasks we would like to work on but that are not exactly related to a specific project.
+We track in this repository as issues the open source tasks we would like to work on, but that are not precisely related to a specific project.
+
+> Tasks on a [Kanban-style board](https://github.com/orgs/quavedev/projects/8/views/1).
 
 ## How to contribute
 
-You can open issues here or in our specific projects repositories.
+You can open issues here or in our specific project repositories.
 
-We will prioritize the issues according to our roadmap and the issues that are more important for our clients.
+We will prioritize the issues according to our roadmap and the more critical issues for our clients.
 
 ## How to speed up something
 
@@ -22,7 +24,7 @@ You can contact us to discuss specific items.
 
 ## Projects
 
-We have many open-source projects below we list a few - we will be back here later to list all of them:
+We have many open-source projects below. We list a few - we will be back here later to list all of them:
 
 ### Meteor
 
